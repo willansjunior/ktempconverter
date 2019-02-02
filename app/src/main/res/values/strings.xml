@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KTempConverter</string>
+    <string name="app_name">Conversor de Temperatura</string>
     <string name="label_converter">Converter</string>
     <string name="label_fahreinheit">Fahreinheit</string>
     <string name="label_celcius">Celcius</string>
